@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>OBJ/cono.mtl</file>
+        <file>OBJ/cono.obj</file>
+        <file>OBJ/cuerpo.mtl</file>
+        <file>OBJ/rueda_delantera_derecha.mtl</file>
+        <file>OBJ/rueda_delantera_derecha.obj</file>
+        <file>OBJ/rueda_delantera_izquierda.mtl</file>
+        <file>OBJ/rueda_delantera_izquierda.obj</file>
+        <file>OBJ/rueda_trasera_derecha.mtl</file>
+        <file>OBJ/rueda_trasera_derecha.obj</file>
+        <file>OBJ/rueda_trasera_izquierda.mtl</file>
+        <file>OBJ/rueda_trasera_izquierda.obj</file>
+        <file>OBJ/brazo.mtl</file>
+        <file>OBJ/brazo.obj</file>
+        <file>OBJ/cuerpo.obj</file>
+        <file>box.tga</file>
+        <file>grass.tga</file>
+        <file>yoander.tga</file>
+    </qresource>
+</RCC>

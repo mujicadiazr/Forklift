@@ -1,0 +1,13 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl Standard_2
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.459000 0.459000 0.459000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/randy/Desktop/Graphic project/forklift/OBJ/forklift_d.dds
+map_Ka /home/randy/Desktop/Graphic project/forklift/OBJ/forklift_d.dds
